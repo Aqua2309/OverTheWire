@@ -17,7 +17,7 @@ user@usert:~$ grep "millionth" data.txt
 millionth	dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
 ```
 
-*_Note: If yoy try to use "cat" directly in data.txt you'll be force to kill the command because the file is huge and you could compromise the integrity of your computer_*
+*_Note: If yoy try to use "cat" directly in data.txt you'll be force to kill the command because the file is huge (the displayed number means roughly 4MG) and you could compromise the integrity of your computer_*
 ```
 bandit7@bandit:~$ du -b data.txt 
 4184396 data.txt
