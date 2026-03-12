@@ -1,4 +1,4 @@
-## Level 7
+## Level 6 -> 7
 
 ### :trophy: Level Goal
 

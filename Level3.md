@@ -1,4 +1,4 @@
-## Level 3
+## Level 2 -> 3
 
 ### :trophy: Level Goal
 
