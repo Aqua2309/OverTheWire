@@ -14,4 +14,6 @@ Please feel free to reach out if you have any questions, alternative solutions, 
 * [Level 4 -> Level 5](./Level5.md)
 * [Level 5 -> Level 6](./Level6.md)
 * [Level 6 -> Level 7](./Level7.md)
-* [Level7 -> Level 8](./Level8.md)
+* [Level 7 -> Level 8](./Level8.md)
+* [Level 8 -> Level 9](./Level9.md)
+* [Level 9 -> Level 10](./Level0.md)
